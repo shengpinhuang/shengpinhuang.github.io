@@ -16,7 +16,7 @@ In my master thesis, I use causal decomposition approach and the NLSY97 to under
 
 I expect to obtain my M.A. in Sociology from National Taiwan University this summer, where I also earned my B.A. in Sociology. I also spent one year as a visiting student at the University of Wisconsin–Madison, where I discovered that I enjoy long, snowy winters.
 
-You can find my CV [here]().
+You can find my CV [here](/files/sphuang_cv.pdf).
 
 
 
