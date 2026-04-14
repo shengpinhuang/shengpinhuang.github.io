@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sheng-Pin Huang"
 author_profile: true
 redirect_from: 
   - /about/
