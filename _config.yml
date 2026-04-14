@@ -23,14 +23,14 @@ repository               : "shengpinhuang/shengpinhuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_photo_sphuang.jpeg"
   name             : "Sheng-Pin Huang"
   pronouns         :  # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Incoming PhD Student in Sociology <br> University of Michigan"
   location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sphuang@umich.edu" 
 
   # Academic websites
   academia         : # URL
