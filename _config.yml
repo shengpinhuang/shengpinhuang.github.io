@@ -25,26 +25,26 @@ author:
   # Biographic information
   avatar           : "bio_photo_sphuang.jpeg"
   name             : "Sheng-Pin Huang"
-  pronouns         :  # example: "she/her"  
+  #pronouns         :  # example: "she/her"  
   bio              : "Incoming PhD Student in Sociology <br> University of Michigan"
   location         : "Ann Arbor, MI"
-  employer         : ""
-  uri              : # URL
+  #employer         : ""
+  #uri              : # URL
   email            : "sphuang@umich.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #inspire-hep      : # URL
+  #impactstory      : # URL
+  #orcid            : "https://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
