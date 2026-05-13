@@ -130,6 +130,7 @@ atom_feed:
 
 
 # SEO Related
+include:
 google_site_verification : "RtS5zZ8rCzNosxQvz"
 bing_site_verification   :
 alexa_site_verification  :
